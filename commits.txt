@@ -1,0 +1,35 @@
+commit c228aebe9cbcf004bd06d35b2aea72789fcf6ccd
+Author: Luis Enrique <luis.enri1392@gmail.com>
+Date:   Wed Jun 3 21:25:51 2015 -0500
+
+    juego
+
+commit a7d62523044ea1a7f5f713f4d5cc49ed29c9fdba
+Author: Luis Enrique <luis.enri1392@gmail.com>
+Date:   Wed Jun 3 21:24:14 2015 -0500
+
+    presentacion
+
+commit edf8068a56ad331c0a2a0993577cce5be95f0aad
+Author: Luis Enrique <luis.enri1392@gmail.com>
+Date:   Wed Jun 3 21:22:24 2015 -0500
+
+    redes sociale
+
+commit f2f12244df52f3a149ae8504ad3a496f0e56d099
+Author: Luis Enrique <luis.enri1392@gmail.com>
+Date:   Wed Jun 3 21:12:45 2015 -0500
+
+    perfil web
+
+commit b5056afad11b45db44bb8a2e1c12d0ecc6c45a05
+Author: Luis Enrique <luis.enri1392@gmail.com>
+Date:   Wed Jun 3 21:09:38 2015 -0500
+
+    subi foto y mi nombre
+
+commit de83666f76deba0d60cf2bc184a4b3c222291c1b
+Author: Luis Enrique <luis.enri1392@gmail.com>
+Date:   Wed Jun 3 20:59:34 2015 -0500
+
+    archivos vase del portafolio
